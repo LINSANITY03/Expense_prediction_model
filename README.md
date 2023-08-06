@@ -5,3 +5,11 @@ Possible technology used:
 - KAFKA/RABBITMQ
 - Tensorflow
 - Python
+
+# Project Structure
+
+```
+    -   data
+    -   model
+    -   README.md
+```
